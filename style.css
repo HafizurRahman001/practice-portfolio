@@ -51,7 +51,9 @@ font-size: 35px;
     margin-bottom: 100px;
 }
 .content-design{
-    
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left -0.5% bottom 50%;
 }
 .first-content{
     width: 80%;
